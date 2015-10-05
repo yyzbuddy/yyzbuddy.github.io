@@ -1,0 +1,23 @@
+h1{
+	font-size: 2.55rem;
+}
+
+table.r_col{
+	border: none;
+}
+td{
+	background-color: #fff;
+}
+
+.thumb_text_wrap{
+	float: right;
+	margin: 5px;
+}
+.left,.right{
+		margin: 5px;
+}
+
+.img_h200{
+	height: 200px;
+	margin: 5px;
+}
